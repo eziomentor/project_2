@@ -14,12 +14,7 @@ from sklearn.model_selection import train_test_split
 import keras
 import numpy as np
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import tensorflow as tf
 import joblib
-import pickle
-import json
 from flask_restful import Resource
 
 
