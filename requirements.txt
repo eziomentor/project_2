@@ -1,8 +1,0 @@
-Flask
-keras
-flask_restful
-scikit-learn
-numpy
-pandas
-joblib
-gunicorn
