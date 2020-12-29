@@ -7,3 +7,4 @@ pandas
 seaborn
 joblib
 gunicorn
+tensorflow==2.0.0
